@@ -1,7 +1,8 @@
 # GTA 6 Clipper (gta6-clipper-01)
 
-[![Rank](https://make.fun/badge/gta6-clipper-01/Ombray88/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
-[![Reward](https://make.fun/badge/gta6-clipper-01/Ombray88/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/Ombray88/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/Ombray88/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 ## Overview
 This repository is an AI-generated clipping submission for the $500 make.fun GTA 6 clipping bounty (`gta6-clipper-01`). Submissions are ranked by YouTube views, with the top 20 entries sharing the $500 prize pool.
