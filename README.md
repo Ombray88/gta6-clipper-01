@@ -22,7 +22,7 @@ makefun-buoy-marina-osprey
 ```
 - **Play Code**: `makefun-buoy-marina-osprey`
 
-> **Note on `VIDEO.json`**: The `VIDEO.json` file in this repository is currently a DRAFT placeholder (`https://www.youtube.com/shorts/<id>`). It will be updated with the real YouTube Short URL after the clip is uploaded by the user. No video ID has been artificially invented.
+> **Note on `VIDEO.json`**: The `VIDEO.json` file in this repository holds the real public YouTube Short URL (`https://youtube.com/shorts/3KPVFgM9fY0`).
 
 ## Local Execution
 To test and run `main.ts` locally:
